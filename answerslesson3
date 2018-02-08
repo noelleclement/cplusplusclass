@@ -1,0 +1,17 @@
+0012FF60
+7
+0012FF60
+7
+
+0012FF60
+9
+0012FF60
+9
+
+0012FF54
+3
+0012FF54
+3
+
+4 (32bit machine dus adressen hebben 4 bytes tot beschikking)
+2 (sizeof is in bytes, short heeft 2 bytes)

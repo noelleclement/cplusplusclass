@@ -1,0 +1,28 @@
+
+class Voertuig{
+	private:
+		float snelheid;
+
+	public:
+
+		Voertuig(){
+			this -> snelheid = 0;
+		}
+
+};
+
+class Auto : public Voertuig{
+	private:
+		int wielen;
+
+	public:
+
+		Auto(){
+			this -> wielen = 4;
+		}
+
+		int getWielen(){
+			return this -> wielen;
+		}
+
+};
